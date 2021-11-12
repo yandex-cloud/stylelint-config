@@ -1,0 +1,19 @@
+{
+  "name": "@yandex-cloud/stylelint-config",
+  "version": "1.0.0",
+  "description": "Yandex.Cloud Stylelint config, following our styleguide",
+  "keywords": [
+    "stylelint",
+    "config"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "postcss-scss": "^4.0.2",
+    "stylelint-config-prettier": "^9.0.3",
+    "stylelint-prettier": "^2.0.0",
+    "stylelint-scss": "^4.0.0"
+  },
+  "peerDependencies": {
+    "stylelint": "^14.0.0"
+  }
+}
