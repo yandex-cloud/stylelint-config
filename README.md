@@ -19,6 +19,6 @@ If you are using Prettier, extend root config with the additional rules:
 
 ```json
 {
-    "extends": ["@yandex-cloud/stylelint-config", "@yandex-cloud/stylelint-config/prettier"],
+    "extends": ["@yandex-cloud/stylelint-config", "@yandex-cloud/stylelint-config/prettier"]
 }
 ```
