@@ -2,7 +2,7 @@
 
 ## Install
 ```
-$ npm install --save-dev stylelint @yandex-cloud/stylelint-config
+$ npm install --save-dev stylelint postcss @yandex-cloud/stylelint-config
 ```
 
 ## Usage
