@@ -7,6 +7,10 @@
     "config"
   ],
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yandex-cloud/stylelint-config"
+  },
   "dependencies": {
     "postcss-scss": "^4.0.2",
     "stylelint-config-prettier": "^9.0.3",
