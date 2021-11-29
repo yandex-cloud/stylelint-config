@@ -1,6 +1,6 @@
 {
   "name": "@yandex-cloud/stylelint-config",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Yandex.Cloud Stylelint config, following our styleguide",
   "keywords": [
     "stylelint",
