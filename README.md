@@ -22,3 +22,12 @@ If you are using Prettier, extend root config with the additional rules:
     "extends": ["@yandex-cloud/stylelint-config", "@yandex-cloud/stylelint-config/prettier"]
 }
 ```
+
+### Order
+If you want to order properties in your css files, extend root config with the additional rules:
+
+```json
+{
+    "extends": ["@yandex-cloud/stylelint-config", "@yandex-cloud/stylelint-config/order"]
+}
+```
