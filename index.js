@@ -40,7 +40,7 @@ module.exports = {
         'number-no-trailing-zeros': true,
         'string-quotes': 'single',
         'unit-case': 'lower',
-        'value-keyword-case': 'lower',
+        'value-keyword-case': ['lower', {camelCaseSvgKeywords: true}],
         'value-list-comma-space-after': 'always-single-line',
         'value-list-comma-space-before': 'never',
         'property-case': 'lower',
