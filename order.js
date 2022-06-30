@@ -7,8 +7,8 @@ module.exports = {
             'custom-properties',
             'declarations',
             { 'type': 'at-rule' },
-            { 'type': 'at-rule', 'hasBlock': true },
-            'rules'
+            'rules',
+            { 'type': 'at-rule', 'hasBlock': true }
         ],
 
         'order/properties-order': [
