@@ -1,5 +1,7 @@
 # @yandex-cloud/stylelint-config
 
+> ⚠️ Repository moved to @gravity-ui/stylelint-config
+
 ## Install
 ```
 $ npm install --save-dev stylelint postcss @yandex-cloud/stylelint-config
